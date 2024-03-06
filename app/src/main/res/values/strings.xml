@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Habahabamall</string>
+    <string name="email_address">email\@domain.com</string>
+    <string name="api_root">api.domain.address/api/</string>
+    <string name="web_host">web_url.domain</string>
+    <string name="firebase_address">identitytoolkit.googleapis.com/</string>
+    <string name="user_login">login</string>
+    <string name="user_sign_up">sign up</string>
+    <string name="user_forgot_password">forgot password</string>
+    <string name="back_button">go back</string>
+    <string name="reset">reset</string>
+    <string name="email_field">email</string>
+    <string name="home_page">home</string>
+    <string name="shopping_cart">shopping cart</string>
+    <string name="favorite">favourite</string>
+    <string name="product_details">details</string>
+    <string name="send_email">send us email</string>
+    <string name="offline">you are currently offline</string>
+    <string name="add_to_cart">add to cart</string>
+    <string name="add_to_wish">add to wish list</string>
+    <string name="profile_page">user profile account</string>
+    <string name="app_link">{playtore_app_url}</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"{web_address}/.well-known/assetlinks.json\" }]</string>
+</resources>
